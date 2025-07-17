@@ -29,6 +29,10 @@ This mock project simulates a SaaS software implementation from kickoff to go-li
 
 ---
 
+![Project Board Screenshot](board.png)
+
+---
+
 ## 📈 Project Goals
 
 - Show understanding of software implementation stages
