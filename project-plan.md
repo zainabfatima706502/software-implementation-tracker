@@ -13,3 +13,8 @@
 - Notion: Documentation and knowledge base
 - Slack: Cross-functional team communication
 - GitHub: Repo + boards to simulate project tracking
+  
+## Trello Use
+Used Trello to visualize onboarding tasks for client implementation.
+Columns: Intake, Configuration, QA, Completed.
+Each card included checklist, due dates, and labels.
