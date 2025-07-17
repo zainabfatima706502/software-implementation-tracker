@@ -1,7 +1,11 @@
-# Sprint 1 – Configuration Setup
+# Simulated Jira Sprint – Week 2–3: Configuration Setup
 
-| Task ID | Description | Assignee | Status |
-|---------|-------------|----------|--------|
-| JIRA-101 | Create client environment | Zainab | Done |
-| JIRA-102 | Import contact data | John | In Progress |
-| JIRA-103 | Configure roles | Sarah | To Do |
+## Sprint Goal: Complete system configuration and staging environment
+
+| Task ID  | Task Description             | Assignee | Status       |
+|----------|------------------------------|----------|--------------|
+| JIRA-101 | Set up staging environment   | Zainab   | ✅ Done       |
+| JIRA-102 | Configure user permissions   | Sarah    | 🚧 In Progress |
+| JIRA-103 | Import legacy contact data   | John     | 🔜 To Do      |
+| JIRA-104 | Integrate with CRM system    | Dev Team | 🔜 To Do      |
+
