@@ -1,20 +1,20 @@
-# Project Plan: SaaS Implementation for Acme Corp
+# Project Plan – SaaS Implementation for Acme Corp
 
-## Timeline
-- Week 1: Requirements Gathering
-- Week 2: Configuration Setup
-- Week 3–4: Testing
-- Week 5: UAT
-- Week 6: Go Live
+## Timeline (6 Weeks)
+1. Week 1: Kickoff & Requirement Gathering
+2. Week 2: Configuration Setup
+3. Week 3–4: Internal QA Testing
+4. Week 5: UAT with Client
+5. Week 6: Go Live & Handover
 
-## Tools Used
-- Jira: Sprint planning and backlog
-- Trello: Task breakdown for onboarding
-- Notion: Documentation and knowledge base
-- Slack: Cross-functional team communication
-- GitHub: Repo + boards to simulate project tracking
-  
+## Milestones
+- Finalize scope document
+- Set up staging environment
+- Train client users
+- Launch support documentation
+
 ## Trello Use
-Used Trello to visualize onboarding tasks for client implementation.
-Columns: Intake, Configuration, QA, Completed.
-Each card included checklist, due dates, and labels.
+Used Trello to create a visual board with columns: Intake, Configuration, Testing, Completed. Tasks had checklists, labels, and due dates.
+
+## Notion Use
+Maintained all internal notes, checklists, and SOPs in Notion. Included a shared workspace for UAT scripts and stakeholder notes.
