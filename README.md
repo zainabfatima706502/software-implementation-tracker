@@ -1,19 +1,39 @@
-# Software-implementation-tracker
-Mock project to showcase project management skills (Jira, Trello, Slack, Notion)
+# 🗂️ Software Implementation Tracker
 
-Mock SaaS implementation project created to demonstrate project management documentation and planning for non-coding professionals. This portfolio highlights my ability to manage Agile workflows, simulate Jira/Trello boards, and maintain client-facing documentation using Notion, Slack, and GitHub.
+This mock project simulates a SaaS software implementation from kickoff to go-live. It demonstrates my ability to manage projects using Agile best practices and tools such as Jira, Trello, Slack, Notion, and GitHub Projects.
+
+---
 
 ## 🔧 Tools Simulated
-- **Jira** – Sprint board & backlog tracking
-- **Trello** – Task visualization
-- **Slack** – Daily standups & cross-functional syncs
-- **Notion** – SOPs, internal notes, and UAT scripts
-- **GitHub Projects** – Workflow board and documentation hub
 
-## 📁 Key Files
-- [Project Plan](project-plan.md)
-- [Jira Sprint Board](jira-sprint-board.md)
-- [Stakeholder Communication Plan](stakeholder-communication.md)
-- [Risk Log](risk-log.md)
-- [Week 1 Status Report](status-report-week1.md)
-- [Tools Used](tools-used.md)
+- **Jira** – Sprint planning and backlog grooming
+- **Trello** – Task visualization for onboarding
+- **Slack** – Team communication and daily updates
+- **Notion** – Internal documentation and SOPs
+- **GitHub Projects** – Task board and repo for documentation
+
+---
+
+## 📄 Key Project Files
+
+- [📋 Project Plan](project-plan.md)
+- [📌 Jira Sprint Board](jira-sprint-board.md)
+- [📢 Stakeholder Communication Plan](stakeholder-communication.md)
+- [⚠️ Risk Log](risk-log.md)
+- [✅ Week 1 Status Report](status-report-week1.md)
+- [🛠️ Tools Used Summary](tools-used.md)
+
+---
+
+## 📈 Project Goals
+
+- Show understanding of software implementation stages
+- Simulate Agile task management and sprints
+- Practice stakeholder communication and reporting
+- Present a professional GitHub project portfolio
+
+---
+
+## 📬 Contact
+
+Feel free to connect or message me on [LinkedIn](https://linkedin.com/in/zainab706) for collaborations or hiring opportunities.
