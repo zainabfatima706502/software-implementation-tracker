@@ -1,3 +1,7 @@
+![Last Commit](https://img.shields.io/github/last-commit/zainabfatima706502/software-implementation-tracker)
+![Open Issues](https://img.shields.io/github/issues/zainabfatima706502/software-implementation-tracker)
+
+
 # 🗂️ Software Implementation Tracker
 
 This mock project simulates a SaaS software implementation from kickoff to go-live. It demonstrates my ability to manage projects using Agile best practices and tools such as Jira, Trello, Slack, Notion, and GitHub Projects.
